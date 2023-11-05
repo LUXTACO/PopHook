@@ -25,8 +25,6 @@ The best usage for this is like a module/addition to a cheat of yours, its not f
 -----
 ### <p align="center">🧧 Todo 🧧</p>
 
-<p align="center" >
 - Fix this shit
 - Make a popsauce cheat
 - Make the library simple to use
-</p>
