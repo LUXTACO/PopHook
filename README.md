@@ -25,6 +25,13 @@ The best usage for this is like a module/addition to a cheat of yours, its not f
 -----
 ### <p align="center">🧧 Todo 🧧</p>
 
-- Fix this shit
-- Make a popsauce cheat
-- Make the library simple to use
+<div align="center">
+    <br>
+    <strong>Current stuff to do</strong><br><br>
+    <ol>
+        <strong>1. Error </strong> - Fix the current 12 data error.<br><br>
+        <strong>2. Cheat </strong> - Make a Popsauce cheat with image recog and auto answer.<br><br>
+        <strong>3. Library </strong> - Make the libary way more simple and easy to use as well as ix bugs in them.<br><br>
+    </ol>
+</div>
+    <p align="center">
