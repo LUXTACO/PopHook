@@ -31,7 +31,7 @@ The best usage for this is like a module/addition to a cheat of yours, its not f
     <ol>
         <strong>1. Error </strong> - Fix the current 12 data error.<br><br>
         <strong>2. Cheat </strong> - Make a Popsauce cheat with image recog and auto answer.<br><br>
-        <strong>3. Library </strong> - Make the libary way more simple and easy to use as well as ix bugs in them.<br><br>
+        <strong>3. Library </strong> - Make the library way more simple and easy to use as well as fix bugs in them.<br><br>
     </ol>
 </div>
     <p align="center">
